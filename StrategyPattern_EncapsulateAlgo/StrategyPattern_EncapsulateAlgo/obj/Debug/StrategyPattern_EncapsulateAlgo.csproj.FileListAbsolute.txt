@@ -1,0 +1,9 @@
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\bin\Debug\StrategyPattern_EncapsulateAlgo.exe.config
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\obj\Debug\StrategyPattern_EncapsulateAlgo.csprojResolveAssemblyReference.cache
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\bin\Debug\StrategyPattern_EncapsulateAlgo.exe
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\bin\Debug\StrategyPattern_EncapsulateAlgo.pdb
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\obj\Debug\StrategyPattern_EncapsulateAlgo.exe
+c:\users\abdukhan\documents\visual studio 2012\Projects\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\obj\Debug\StrategyPattern_EncapsulateAlgo.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\bin\Debug\StrategyPattern_EncapsulateAlgo.exe.config
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\obj\Debug\StrategyPattern_EncapsulateAlgo.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\StrategyPattern_EncapsulateAlgo\StrategyPattern_EncapsulateAlgo\obj\Debug\StrategyPattern_EncapsulateAlgo.pdb

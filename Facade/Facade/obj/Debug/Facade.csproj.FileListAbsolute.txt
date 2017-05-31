@@ -1,0 +1,5 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Facade\Facade\obj\Debug\Facade.pdb

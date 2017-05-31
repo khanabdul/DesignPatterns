@@ -1,0 +1,6 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.dll.config
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\AbstractFactory\obj\Debug\FactoryOfFactory.csprojResolveAssemblyReference.cache

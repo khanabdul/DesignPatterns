@@ -1,0 +1,7 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\obj\Debug\BrandFactory.csprojResolveAssemblyReference.cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\bin\Debug\DaburFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\bin\Debug\DaburFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\obj\Debug\DaburFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\obj\Debug\DaburFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\bin\Debug\AbstractFactory.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\DaburFactory\bin\Debug\AbstractFactory.pdb

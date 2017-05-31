@@ -1,0 +1,7 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\bin\Debug\PatanjliFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\bin\Debug\PatanjliFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\bin\Debug\AbstractFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\obj\Debug\ConcreteProduct.csprojResolveAssemblyReference.cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\obj\Debug\PatanjliFactory.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\AbstractFactory\PatanjliFactory\obj\Debug\PatanjliFactory.pdb

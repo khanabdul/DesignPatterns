@@ -1,0 +1,12 @@
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\bin\Debug\Singelton.exe.config
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\bin\Debug\Singelton.exe
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\bin\Debug\Singelton.pdb
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\obj\Debug\Singelton.csprojResolveAssemblyReference.cache
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\obj\Debug\Singelton.exe
+c:\users\abdukhan\documents\visual studio 2012\Projects\Singelton\Singelton\obj\Debug\Singelton.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\bin\Debug\Singelton.exe.config
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\obj\Debug\Singelton.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\obj\Debug\Singelton.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\bin\Debug\Singelton.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\bin\Debug\Singelton.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Singelton\Singelton\obj\Debug\Singelton.csprojResolveAssemblyReference.cache

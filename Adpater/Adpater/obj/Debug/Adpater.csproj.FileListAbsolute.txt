@@ -1,0 +1,5 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Adpater\Adpater\obj\Debug\Adpater.csprojResolveAssemblyReference.cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Adpater\Adpater\bin\Debug\Adpater.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Adpater\Adpater\obj\Debug\Adpater.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Adpater\Adpater\bin\Debug\Adpater.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\Design Pattern\Adpater\Adpater\obj\Debug\Adpater.exe
