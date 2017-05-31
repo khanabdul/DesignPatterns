@@ -1,6 +1,14 @@
 # DesignPatterns
 All Design Patterns POCs under single repo
 
+```
+Every Pattern is a individual project(.sln)
+which can run individually without any dependecy 
+Using Visual Studio.
+```
+
+
+
 
 # •	Creational Patterns 
 o	Factory Method - Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses  (dependency injection) 
